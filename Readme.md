@@ -26,16 +26,16 @@ The model was trained on a diverse dataset comprising of both phishing and legit
 
 ### Baseline Model
 
-    - **Text Preprocessing** 
-    - **Baseline Model Training** 
+    - Text Preprocessing 
+    - Baseline Model Training 
 
 ### Optimized Model
 
-    - **Creating and setting up a MLFlow experiment**
-    - **Creating Text Preprocessing Pipeline**
-    - **Hyper-parameter ptimization with hyperopt**
-    - **Registering best model**
-    - **Getting Prediction from best model**
+    - Creating and setting up a MLFlow experiment
+    - Creating Text Preprocessing Pipeline
+    - Hyper-parameter ptimization with hyperopt
+    - Registering best model
+    - Getting Prediction from best model
 
 ## Results
 
